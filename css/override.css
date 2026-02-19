@@ -47,17 +47,32 @@ hr {
 /* index.md */
 .intro-section {
   display: flex;
-  align-items: center;
-  gap: 2em; /* space between photo and text */
-  flex-wrap: wrap; /* ensures it works on small screens */
+  align-items: center;      /* vertical alignment */
+  gap: 2em;                 /* space between photo and text */
+  flex-wrap: nowrap;        /* keep photo and text on same line */
   margin-bottom: 2em;
 }
 
+/* Photo styling */
 .intro-photo {
   width: 150px;
   border-radius: 50%;
+  flex-shrink: 0;           /* prevents the photo from shrinking */
 }
 
+/* Text container */
 .intro-text {
   max-width: 600px;
+}
+
+/* Responsive: stack on small screens */
+@media (max-width: 768px) {
+  .intro-section {
+    flex-direction: column; /* photo above text */
+    text-align: center;
+  }
+
+  .intro-photo {
+    margin-bottom: 1em;
+  }
 }
