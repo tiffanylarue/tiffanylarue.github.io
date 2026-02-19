@@ -13,6 +13,7 @@ I am starting a job search, and want clarity around what I'm looking for and rol
 - Look into Mock Interview services
 - Attend one local tech Meetup per week
 - If time permitting: complete courses on TPM interviews, and possibly PMP exam prep
+
 ### Risks to project completion:
 - Possible distraction if I jump in a job early that doesn't match what I'm looking for and without doing the pre-work
 - Trouble focusing on job-mode while finishing school
@@ -22,10 +23,12 @@ I am starting a job search, and want clarity around what I'm looking for and rol
 - Revising my plan is always possible
 - Schedule time blocks for school and job-related items
 - Remind myself that my dog can be alone for a little while
+
 ### Project Assessments (evaluation criteria for the project):
 - I feel better prepared to apply and interview for jobs
 - I am clear on the direction and target roles/skillsets I'm looking for
 - I have made genuine connections in my community with people I would feel comfortable reaching out to
 - My JSC feels supported by me as their moderator, and we stay on track with our program
+
 ### Project portfolio link:
 https://tiffanylarue.github.io/
