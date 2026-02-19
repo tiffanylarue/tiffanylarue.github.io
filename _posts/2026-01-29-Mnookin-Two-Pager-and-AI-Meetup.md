@@ -1,0 +1,13 @@
+## Mnookin Two Pager and AI Meetup
+
+### Last Week
+Last week was Meeting 1 for my Job Search Council (after having Meeting 0 the previous week to introduce ourselves). We created and finalized our group charter. One of the points in our charter was confidentiality, so I will keep descriptions of our group activities high-level. In the moderator training, they mentioned that it's helpful to encourage our team, so I made a post to our group Slack on Monday morning asking members of their plan for the week and posting mine. This sparked conversation with one person asking about feedback on their situation and another posting their plan for the week. Today we met and began the Mnookin Two-Pager exercise to identify what we don't like doing, and invert it into what we like doing. Similarly we looked at what are our Must-Nots for our next job, and Must Haves. In addition, I attended an in-person "AI meetup for GenAI, LLMs and Agents" at the GitHub office in Bellevue, WA, and learned about MCP servers. At the end, the community was able to voice "asks" such as looking for work. I realized I need to work on my elevator pitch. I also attended a resume review workshop which gave me some good ideas of how to update my resume.
+
+### This Week
+Next week, I have an appointment with the CU Boulder career center to see what resources they offer. I'll also have a JSC Moderator call and a bi-weekly webinar for the NSA program, and our JSC will be reviewing our Mnookin 2-pagers, as well as setting up the first 3 calls for our Listening Tour (where we'll ask 3 past colleagues about our strengths and weaknesses, etc.). There is a virtual event about Cybersecurity jobs that I'm going to attend, and I need to find a local in-person tech event.
+
+### Impediments
+One impediment is time, since I feel busy even through I'm not working at the moment. I've also been hesitant about the Listening Tour - the last company I worked at just had layoffs (on the same team) so it doesn't seem like a good time to reach out. I need to think of other people I'd like to reach out to, and not be shy about it. 
+
+### Reflections / Improved Process
+I think I did a good job the past week of getting organized and chunking my time. I probably should work on my NLP homework before PPL so I'm not scrambling to get the NLP quiz done by Thursday with all the JSC activities that day. It would be good to identify some meetup events a few weeks out so I don't have to check for one each week. Having a timekeeper and notetaker in our JSC meetings was helpful this week so we'll continue that.

@@ -1,4 +1,5 @@
-## Job Search Preparation (Candidate-Market Fit, Job Search Council, and Networking)
+## Project Proposal: Job Search Preparation 
+(Candidate-Market Fit, Job Search Council, and Networking)
 
 ### Vision statement:
 I will gain a better understanding of myself as a job candidate and how I fit in the job market, have updated job search assets, complete technical interview practice, and be better connected to my local tech community.
