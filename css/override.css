@@ -43,3 +43,21 @@ hr {
   font-size: 2.5em;
   opacity: 0.3;
 }
+
+/* index.md */
+.intro-section {
+  display: flex;
+  align-items: center;
+  gap: 2em; /* space between photo and text */
+  flex-wrap: wrap; /* ensures it works on small screens */
+  margin-bottom: 2em;
+}
+
+.intro-photo {
+  width: 150px;
+  border-radius: 50%;
+}
+
+.intro-text {
+  max-width: 600px;
+}
