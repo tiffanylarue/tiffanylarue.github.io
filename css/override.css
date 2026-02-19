@@ -45,30 +45,37 @@ hr {
 }
 
 /* index.md */
+/* Container wrapper to avoid theme interference */
+.intro-section-wrapper {
+  max-width: 900px;   /* keeps content centered */
+  margin: 0 auto;
+  padding: 2em 1em;
+}
+
+/* Flex container */
 .intro-section {
   display: flex;
-  align-items: center;      /* vertical alignment */
-  gap: 2em;                 /* space between photo and text */
-  flex-wrap: nowrap;        /* keep photo and text on same line */
-  margin-bottom: 2em;
+  align-items: center; /* vertical alignment */
+  gap: 2em;            /* space between photo and text */
+  flex-wrap: nowrap;   /* force side-by-side */
 }
 
 /* Photo styling */
 .intro-photo {
   width: 150px;
   border-radius: 50%;
-  flex-shrink: 0;           /* prevents the photo from shrinking */
+  flex-shrink: 0;      /* prevents shrinking */
 }
 
 /* Text container */
 .intro-text {
-  max-width: 600px;
+  flex: 1;             /* take remaining space */
 }
 
 /* Responsive: stack on small screens */
 @media (max-width: 768px) {
   .intro-section {
-    flex-direction: column; /* photo above text */
+    flex-direction: column; /* stack photo above text */
     text-align: center;
   }
 
