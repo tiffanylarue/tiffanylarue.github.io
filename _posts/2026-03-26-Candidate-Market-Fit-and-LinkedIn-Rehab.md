@@ -1,4 +1,4 @@
-## Test4
+## Candidate-Market Fit and LinkedIn Rehab
 
 ### Last Week
 On last week's JSC call, we each shared our Candidate-Market Fit statements, and gave each other feedback. The next day, there was a LinkedIn Live for the NSA program, where recruiters reviewed several people's LinkedIn profiles and gave feedback. One big takeaway was that LinkedIn is a "lead gen" document, while the resume is a factual document of what you've done. (Not to say that LinkedIn isn't factual, but mainly that its purpose is for marketing you.) In LinkedIn, they recommend using relevant keywords, and being efficient with real estate on the page. 

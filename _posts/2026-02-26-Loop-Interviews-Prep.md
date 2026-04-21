@@ -1,4 +1,4 @@
-## Test2
+## Loop Interviews Prep
 
 ### Last Week
 I made good progress on my plan to front-load my work so I can have plenty of time to prepare before my interview. After today, I'll have until next Wednesday to work on prep. I had the option to schedule the interviews on one day or over two, and opted for two, so it'll be Wed and Thurs next week. I also found out I have a 2 page writing assignment to complete that I need to do two days before the interview, so I'll do that tomorrow. It sounds like there are two standard questions they use, one about creativity, and one about using data. Yesterday, I met with the recruiter and she gave me some general advice on areas I should focus on during my interview prep. There is also the option to schedule a "candid chat" with an Amazon employee that would be set up for me soon before the interview.

@@ -1,4 +1,4 @@
-## Test5
+## Philosophy and CS
 
 ### Last Week
 I took a hard turn on my project this week, since I want to take a break from job activities while I finish the semester. Recently I'd seen a few articles mentioning the "new-found" importance of Philosophy majors in this age of AI. Years ago in my first degree program, I'd noticed the pattern of CS people with a Philosophy degree or dual degree, and wondered why. For many years I had a bit of an aversion to philosophy, seeing it as a waste of time. However, in our program (and particularly in Discrete Structures and AI), I kept noticing the mathematicians that invented/discovered some important ideas were also philosophers.

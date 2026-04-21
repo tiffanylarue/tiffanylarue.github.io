@@ -1,4 +1,4 @@
-## Test6
+## JSC Hiatus
 
 ### Last Week
 I had a busy week and was feeling generally behind on some things. I realized too that I was originally planning to have the JSC (and my moderator duties) wrapped up by last week (Week 11), instead of continuing to have additional sessions that I hadn't planned for during finals month. The final two sessions today and next week are about networking, and interview prep - which I feel I've been spending all semester on actually!
