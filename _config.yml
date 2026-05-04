@@ -22,11 +22,6 @@ theme: "minima"
 
 # rss: rss
 
-header_pages:
-  - resume.md
-  - about.md
-  - index.md
-
 kramdown:
   syntax_highlighter_opts:
     disable: true
